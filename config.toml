@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://mitsu9.com/"
+languageCode = "jp"
+title = "mitsu9.com"
 theme = "cleanwhite"
+hasCJKLanguage = true
