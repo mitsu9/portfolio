@@ -3,3 +3,28 @@ languageCode = "jp"
 title = "mitsu9.com"
 theme = "cleanwhite"
 hasCJKLanguage = true
+
+[params]
+  SEOTitle = "mitsu9.com"
+  description = "portfolio of mitsu9"
+  keyword = "portfolio, blog"
+
+  header_image = "img/header-bg.jpg"
+
+  image_404 = "img/404-bg.jpg"
+  title_404 = "コンテンツがありません"
+
+  about_me = true
+  sidebar_about_description = "Customer Reliability Engineer"
+  sidebar_avatar = "img/profile.jpg"
+
+  [params.social]
+  rss      = true
+  email    = "mitsu9@mitsu9.com"
+  twitter  = "https://twitter.com/_mitsu9"
+  github   = "https://github.com/mitsu9"
+  linkedin = "https://www.linkedin.com/in/mitsunobuhomma/"
+
+  [[params.addtional_menus]]
+  title =  "ABOUT"
+  href =  "/top/about/"
