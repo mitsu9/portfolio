@@ -2,6 +2,11 @@
 
 Customer Reliability Engineer (CRE) やってます.
 
+Customer Support (CS) の問題分析や課題解決を技術的にサポートしています.
+しかし常に何かシステムを作って解決する訳ではなく, 運用を変更することで解決に導くこともあります.
+
+人にしかできないことを最大限発揮するための環境作りに興味があります.
+
 {{< figure src="/img/profile.jpg" width="300px" >}}
 
 ## Affiliation
