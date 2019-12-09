@@ -25,4 +25,4 @@ Customer Reliability Engineer (CRE) やってます.
 - 登壇: [Dive into mixi night! #4](https://mixi.connpass.com/event/94520/) ([資料](https://speakerdeck.com/mitsu9/how-to-effectively-read-code))
 - ポスター: [Battle Conference Under30](https://bcu30.jp/2019/booth/mixi/)
 - インタビュー: [自分の夢より、人の夢を叶えたい - 仕事を通じて見つけた自分の原動力。](https://mixil.mixi.co.jp/people/6848)
-- 登壇: [第10回 Amazon SageMaker 事例祭り](https://aws-seminar.smktg.jp/public/seminar/view/727)
+- 登壇: [第10回 Amazon SageMaker 事例祭り](https://aws-seminar.smktg.jp/public/seminar/view/727) ([資料](https://pages.awscloud.com/rs/112-TZM-766/images/20191128_mixi_sagemaker-fes10.pdf))
