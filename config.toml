@@ -20,7 +20,7 @@ hasCJKLanguage = true
 
   [params.social]
   rss      = true
-  email    = "mitsu9@mitsu9.com"
+  email    = "info@mitsu9.com"
   twitter  = "https://twitter.com/_mitsu9"
   github   = "https://github.com/mitsu9"
   linkedin = "https://www.linkedin.com/in/mitsunobuhomma/"
