@@ -11,8 +11,6 @@ Customer Support (CS) の問題分析や課題解決を技術的にサポート�
 
 人にしかできないことを最大限発揮するための環境作りに興味があります.
 
-{{< figure src="/img/profile.jpg" width="300px" >}}
-
 ## Affiliation
 
 - 2018.4 - now    : mixi, inc.
