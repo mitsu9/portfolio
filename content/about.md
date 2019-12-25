@@ -1,3 +1,7 @@
+---
+title:       "About me"
+date:        1994-02-11
+---
 はじめまして. 本間 光宣 (Mitsunobu Homma) です.
 
 Customer Reliability Engineer (CRE) やってます.
