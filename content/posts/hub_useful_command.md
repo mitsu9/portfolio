@@ -1,8 +1,8 @@
 ---
 title:      "サクッとPullRequestを開くための便利なコマンドの紹介"
 date:       2020-02-02T21:00:00+09:00
-categories: ["git"]
-tags:       ["tech"]
+categories: ["tech"]
+tags:       ["git"]
 ---
 
 コードを読んでいると関連したPull Requestを見に行きたいということはよくあると思います.
